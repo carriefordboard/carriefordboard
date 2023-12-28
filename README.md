@@ -9,6 +9,11 @@
 I work from home and do it when it's convenient for me! 
 
 
+
+Human being is created to live in society; separate him from it, isolate him - and his thoughts become confused, his character hardens, hundreds of ridiculous passions are born in his soul, crazy ideas sprout in his brain like wild thorns in the wasteland. - Denis Diderot, "The Nun"
+
+
+
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
